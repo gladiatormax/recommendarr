@@ -1,7 +1,7 @@
 services:
   recommendarr:
     # IF NOT using a reverse proxy uncomment the image tag to use prebuilt
-    image: tannermiddleton/recommendarr:latest
+    image: gladiatormax/recommendarr:latest
     # For reverse proxy setup uncomment and setup the URLs:
     # build:
     #   context: .
